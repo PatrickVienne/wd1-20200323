@@ -1,0 +1,69 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.container {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.google-logo {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+.google-logo-img {
+    width: 100px;
+}
+
+.login-title {
+    text-align: center;
+}
+
+.login-title-text {
+    font-size: 32px;
+}
+
+div.login-window {
+    width: 85%;
+    margin: 0 auto 20px;
+    background-color: linen;
+}
+
+div.login-account {
+    margin: 0 auto;
+    width: 50%;
+}
+
+div.login-account .login-account-img{
+    display: block;
+    width: 80%;
+    margin: 0 auto 20px;
+}
+
+.login-form input {
+    width: 80%;
+    display: block;
+    margin: 0 auto 10px;
+    border-radius: 4px;
+    padding: 16px;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 1);
+}
+
+.login-form button {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 6px;
+    background-color: cornflowerblue;
+    font-size: medium;
+    padding: 5px;
+}
+
+div.register-account {
+    text-align: center;
+    color: blue;
+    font-size: 20px;
+}
+
