@@ -1,4 +1,4 @@
-# store the following values in seperate variables:
+# store the following values in separate variables:
 # "program"
 # "therefore"
 # "am"

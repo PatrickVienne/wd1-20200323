@@ -4,15 +4,11 @@
 # print the result
 # write your code here
 
-
-
 # Task 2
 
 # save your first name and last name as string, and concat them to 1 variable,
 # and print the result
 # write your code here
-
-
 
 # Task 3
 

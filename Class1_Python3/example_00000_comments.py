@@ -1,5 +1,6 @@
 # Comments start with a '#' character
 #
+my_name = "Hallo"  # this is a definition of my_name
 
 
 

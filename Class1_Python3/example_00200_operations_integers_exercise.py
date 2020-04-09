@@ -3,6 +3,5 @@
 # write your code here
 
 
-
 # check if 123 is divisible by 3
 # write your code here
